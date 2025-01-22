@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, my name is Patryk👋,
+i am currently going to school, but after graduating i want to become a .NET Developer.
 
-<!--
-**patrykrek/patrykrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+- Web Api
+- ASP.NET.MVC
+- Basics of HTML and CSS
+- Unit Tests
+- CQRS
+- DDD
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning microservices. 
+
+
+
+
+
