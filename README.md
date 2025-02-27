@@ -10,7 +10,7 @@ i am currently going to school, but after graduating i want to become a .NET Dev
 - DDD
 
 
-- 🔭 I’m currently learning microservices. 
+
 
 
 
